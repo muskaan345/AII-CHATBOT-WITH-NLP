@@ -24,3 +24,4 @@ End the conversation when the user says "bye" or "quit"
 
 Test the Chatbot After writing the code, we will run the script in our terminal and talk to our chatbot by typing messages.
 **OUTPUT*
+![Image](https://github.com/user-attachments/assets/c8b6754a-8059-4774-936a-110c54ea333b)
